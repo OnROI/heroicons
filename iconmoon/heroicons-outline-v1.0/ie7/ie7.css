@@ -1,4 +1,4 @@
-.hero-outline-adjustments-copy-2 {
+.hero-outline-adjustments {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
 .hero-outline-annotation {

@@ -28,9 +28,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.hero-outline-adjustments-copy-2 {
+.hero-outline-adjustments {
   &:before {
-    content: $hero-outline-adjustments-copy-2; 
+    content: $hero-outline-adjustments;
   }
 }
 .hero-outline-annotation {

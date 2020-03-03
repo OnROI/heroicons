@@ -13,7 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'heroicons-outline\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'hero-outline-adjustments-copy-2': '&#xe900;',
+		'hero-outline-adjustments': '&#xe900;',
 		'hero-outline-annotation': '&#xe901;',
 		'hero-outline-archive': '&#xe902;',
 		'hero-outline-arrow-circle-down': '&#xe903;',

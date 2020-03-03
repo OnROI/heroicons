@@ -26,7 +26,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.hero-outline-adjustments-copy-2:before {
+.hero-outline-adjustments:before {
   content: "\e900";
 }
 .hero-outline-annotation:before {
